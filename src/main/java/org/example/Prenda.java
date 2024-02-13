@@ -2,6 +2,7 @@ package org.example;
 
 
 public class Prenda {
+    // Crear la clase Prenda que contenga los atributos marca y modelo.
     private String marca;
     private String modelo;
 
